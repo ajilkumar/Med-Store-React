@@ -7,7 +7,6 @@
     <br/>
     <br/>
     <a href="https://medhub-react.vercel.app/">View Demo</a>
-    .
   </p>
 </p>
 
@@ -29,8 +28,6 @@ This application aims to simplify medical store operations, making it easy for u
 
 This web application is completely made using React JS
 
-
-* []()
 
 ## Getting Started
 
