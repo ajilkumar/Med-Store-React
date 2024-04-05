@@ -6,7 +6,7 @@
     A web application for managing a medical store made using React JS
     <br/>
     <br/>
-    <a href="https://github.com/ajilkumar/Med-Store-React">View Demo</a>
+    <a href="https://medhub-react.vercel.app/">View Demo</a>
     .
   </p>
 </p>
